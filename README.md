@@ -5,9 +5,8 @@ a quickstart guide on implementing the datatables library
 
 ## Table of Contents
 1. [HTML](#html)
-1. [PHP] (#php)
+1. [PHP](#php)
 
 ## HTML
-Something something something
 
 [Source](https://datatables.net/examples/data_sources/js_array.html)
